@@ -1,0 +1,29 @@
+_repo: Thrilling-Stories-Of-The-OceanFor-The-Entertainment-And-Instruction-Of-Young-People_13604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Park, Marmaduke
+    gutenberg_agent_id: '5160'
+    url: http://www.gutenberg.org/2009/agents/5160
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+title: 'Thrilling Stories Of The Ocean
+
+  From Authentic Accounts Of Modern Voyagers And Travellers; Designed
+
+  For The Entertainment And Instruction Of Young People'
+url: http://www.gutenberg.org/ebooks/13604
